@@ -11,7 +11,7 @@ CPU: intel i5 8265U
 
 显卡：Intel UHD Graphics 620
 
-硬盘：西数 Nvme SSD 512G
+硬盘：西数 Nvme SSD 512G WDC PC SN720
 
 声卡：Realtek ALC236
 
