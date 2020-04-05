@@ -1,7 +1,9 @@
-# Lenovo-XiaoXin-Ari-14IWL-hackintosh
 Lenovo-XiaoXin-Ari-14IWL-hackintosh
+
 联想小新Air 14 IWL
+
 配置：
+============================================
 CPU: intel i5 8265U
 内存：8G DDR4 2400
 显卡：ntel UHD Graphics 620
