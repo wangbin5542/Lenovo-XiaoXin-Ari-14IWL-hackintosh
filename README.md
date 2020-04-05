@@ -9,7 +9,7 @@ CPU: intel i5 8265U
 
 内存：8G DDR4 2400
 
-显卡：ntel UHD Graphics 620
+显卡：Intel UHD Graphics 620
 
 硬盘：西数 Nvme SSD 512G
 
