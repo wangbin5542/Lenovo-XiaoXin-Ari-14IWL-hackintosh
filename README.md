@@ -39,5 +39,5 @@ CPU: intel i5 8265U
 
 2.每次在线升级后在控制台输入
 
-sudo kextcache -i 
+sudo kextcache -i /
 
