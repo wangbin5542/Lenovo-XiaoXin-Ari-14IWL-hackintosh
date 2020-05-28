@@ -223,7 +223,7 @@
 		<key>Debug</key>
 		<false/>
 		<key>DefaultVolume</key>
-		<string>Macintosh HD</string>
+		<string>MAC OS</string>
 		<key>NeverHibernate</key>
 		<false/>
 		<key>Secure</key>
@@ -362,17 +362,17 @@
 	<key>SMBIOS</key>
 	<dict>
 		<key>BiosReleaseDate</key>
-		<string>09/17/2019</string>
+		<string>04/23/2020</string>
 		<key>BiosVendor</key>
 		<string>Apple Inc.</string>
 		<key>BiosVersion</key>
-		<string>MBP154.88Z.F000.B00.1909172115</string>
+		<string>MBP154.88Z.F000.B00.2004232040</string>
 		<key>Board-ID</key>
 		<string>Mac-53FDB3D8DB8CA971</string>
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>FVF905303QX0000A8</string>
+		<string>FVF010404GU00008C</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
@@ -384,7 +384,7 @@
 		<key>ChassisType</key>
 		<string>0x09</string>
 		<key>EfiVersion</key>
-		<string>1037.0.78.0.0</string>
+		<string>1037.120.79.0.0</string>
 		<key>Family</key>
 		<string>MacBook Pro</string>
 		<key>FirmwareFeatures</key>
@@ -402,9 +402,9 @@
 		<key>ProductName</key>
 		<string>MacBookPro15,4</string>
 		<key>SerialNumber</key>
-		<string>FVFY61ZNL40Y</string>
+		<string>FVFCD04AL40Y</string>
 		<key>SmUUID</key>
-		<string>EC41C5CF-40C9-423D-A8CB-8A378E778078</string>
+		<string>42091E35-BF88-40B5-BE47-EF543B0C9838</string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
